@@ -1,6 +1,6 @@
 # Olá, me chamo Samuel Silva 👋
 
-**Desenvolvedor Backend em formação** · Java · Spring Boot · Jdbc · Jpa ·
+**Desenvolvedor Backend em formação** · Java · Spring Boot · Jdbc · Jpa
 📍 Fortaleza, CE · 🎓 3º semestre em Análise e Desenvolvimento de Sistemas  
 🟢 **Disponível para estágio ou oportunidade júnior**
 
