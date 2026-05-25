@@ -52,6 +52,10 @@ Cada projeto aqui no GitHub representa uma etapa real do meu aprendizado — da 
   <img src="https://streak-stats.demolab.com?user=DevSamSilva&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSamSilva&theme=github-dark&hide_border=true&area=true" />
+</div>
+
 </div>
 
 ---
