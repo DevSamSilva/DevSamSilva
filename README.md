@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-LINK">LinkedIn</a> •
-<a href="mailto:SEUEMAIL@gmail.com">E-mail</a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/samuel-nascimento-05b94a263">LinkedIn</a> •
+<a href="mailto:fcosamueldsn@gmail.com">E-mail</a>
 </p>
 
 ---
