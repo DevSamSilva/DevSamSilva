@@ -1,102 +1,108 @@
-<div align="center">
+<h1 align="center">Samuel Silva</h1>
 
-# Samuel Silva
+<p align="center">
+<b>Backend Developer | Java • Spring Boot • REST APIs</b>
+</p>
 
-**Backend Developer** · Java · Spring Boot · REST APIs
+<p align="center">
+📍 Fortaleza - CE • Disponível para estágio e oportunidades como Desenvolvedor Backend Júnior
+</p>
 
-*Fortaleza, CE · Disponível para estágio e oportunidades júnior*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nascimento-05b94a263)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcosamueldsn@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=DevSamSilva&color=0077B5&style=flat-square&label=profile+views)
-
-</div>
-
----
-
-## About
-
-Comecei na tecnologia em 2021 como técnico em redes de computadores — aprendi a pensar em sistemas, diagnosticar falhas e entender como infraestrutura sustenta tudo. Esse background me deu uma visão diferente quando migrei para desenvolvimento.
-
-Hoje estou no 3º semestre de Análise e Desenvolvimento de Sistemas, com foco em **backend Java**. Construo APIs REST, trabalho com bancos relacionais e estou constantemente evoluindo minha base técnica para atuar como desenvolvedor backend júnior.
-
-Cada repositório aqui representa um conceito estudado e aplicado — não apenas copiado.
+<p align="center">
+<a href="https://www.linkedin.com/in/SEU-LINK">LinkedIn</a> •
+<a href="mailto:SEUEMAIL@gmail.com">E-mail</a>
+</p>
 
 ---
 
-## Tech Stack
+# 👨‍💻 Sobre
 
-**Core**
+Comecei minha trajetória na tecnologia em 2021 como Técnico em Redes de Computadores, onde desenvolvi uma base sólida em infraestrutura, diagnóstico de problemas e funcionamento de sistemas.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+Atualmente curso o **4º semestre de Análise e Desenvolvimento de Sistemas** e direciono minha carreira para o desenvolvimento backend utilizando **Java** e **Spring Boot**.
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+Tenho foco na construção de APIs REST, modelagem de bancos de dados, boas práticas de desenvolvimento e arquitetura em camadas. Utilizo este GitHub para documentar minha evolução através de projetos próprios e estudos práticos.
 
 ---
 
-## Featured Projects
+# 🚀 Tech Stack
 
-> ⚠️ Seção em construção — projetos autorais sendo desenvolvidos e documentados.
+## Backend
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🔧 Em breve | API REST de gerenciamento de tarefas com autenticação JWT | Java · Spring Boot · PostgreSQL |
-| 🔧 Em breve | CRUD completo com Spring Data JPA e documentação Swagger | Java · Spring Boot · MySQL |
-| [`ConexaoBancoBDD-java`](https://github.com/DevSamSilva/ConexaoBancoBDD-java) | Conexão e operações com banco de dados via JDBC | Java · JDBC · MySQL |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 
-> **Notas:** os repositórios pinados estão sendo reorganizados e documentados. Projetos completos com README, instruções de execução e aprendizados registrados serão adicionados em breve.
+## Bancos de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
-## Currently Learning
+# 📚 Atualmente Estudando
 
 ```
-├── Spring Boot — aprofundando arquitetura e boas práticas
-├── JPA / Hibernate — mapeamento avançado e otimização de queries  
-├── Testes unitários — JUnit 5 + Mockito
-├── Autenticação — Spring Security + JWT
-└── Documentação de APIs — Swagger / OpenAPI
+├── Spring Boot (Arquitetura e boas práticas)
+├── Spring Security + JWT
+├── Spring Data JPA
+├── Hibernate
+├── Testes Unitários (JUnit + Mockito)
+├── Swagger / OpenAPI
+├── Docker
+└── Clean Code
 ```
 
 ---
 
-## Next Milestones
+# 🎯 Próximos Objetivos
 
-- [ ] Publicar API REST completa com Spring Boot + PostgreSQL + JWT
-- [ ] Implementar testes unitários e de integração em um projeto real
-- [ ] Documentar APIs com Swagger/OpenAPI
-- [ ] Contribuir com um projeto open source
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevSamSilva&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSamSilva&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+- ✅ CRUD REST completo
+- 🔄 Spring Security + JWT
+- 🔄 Testes Unitários e de Integração
+- 🔄 Docker
+- 🔄 Deploy
+- 🔄 GitHub Actions (CI/CD)
 
 ---
 
-## Let's connect
+## 📈 GitHub Stats
 
-Aberto a conversas sobre backend, Java, oportunidades de estágio ou troca de experiências.
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nascimento-05b94a263)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSamSilva&theme=github_dark">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSamSilva&theme=github_dark">
+</p>
+
+---
+
+# 🤝 Vamos nos conectar!
+
+Estou sempre aberto para conversar sobre:
+
+- Desenvolvimento Backend
+- Java
+- Spring Boot
+- Estágio
+- Projetos Open Source
+- Tecnologia
+
+<p align="center">
+<a href="https://www.linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
