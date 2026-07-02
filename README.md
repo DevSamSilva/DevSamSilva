@@ -96,7 +96,7 @@ Estou sempre aberto para conversar sobre:
 - Tecnologia
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-LINK">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/samuel-nascimento-05b94a263">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
